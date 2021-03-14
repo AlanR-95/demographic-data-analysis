@@ -1,1 +1,3 @@
-# demographic-data-analysis
+# Análisis demográfico con python
+
+Breve análisis utilizando Pandas y Seaborn.
